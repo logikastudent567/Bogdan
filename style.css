@@ -6,6 +6,7 @@ background: linear-gradient(180deg, #9C4747 0%, #5AA251 49.52%, #9C7B3F 100%);
     margin: 0;
     display: flex;
     flex-direction: column;
+    height: 100vh;
 }
 
 header {
@@ -72,6 +73,7 @@ p {
 footer {
    background-color: #12098C;
    text-align: center;
+    margin-top: auto;
 }
 
 .article-about{
@@ -109,4 +111,5 @@ footer {
 
 .text-about{
     text-align: center;
+
 }
